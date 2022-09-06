@@ -13,8 +13,7 @@ public class MavenBrowesrerLaunch {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://telegr.am/user_mgt/login");
 
-		System.out.println("Done");
-
+		System.out.println("Hello");
+		
 	}
-
 }
